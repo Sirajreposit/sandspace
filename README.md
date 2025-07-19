@@ -17,25 +17,8 @@ Hi this is Geethanjali
 
 
 
-
-
-:wq
-
-
-;Q
-:q
-
-
-
-
-:q
-
-
-
 hi cyber team
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
 # sandspace Updated
 hello guys...
 =======
@@ -46,5 +29,3 @@ hello guys...
 =======
  # sandspace Update
 how are you all =======
->>>>>>> a5650ade68ef502f59d7cdff4fd4a3ae3ca8af44
->>>>>>> 87d97fae64e360b84de8a15158ce2bc9c26c6104
