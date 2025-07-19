@@ -1,2 +1,1 @@
-# Sandspace Technologies 
-## from arun 
+# sandspace tech
